@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule "serial-Input-Output-Server"]
+	url = https://github.com/siavcom/serial-IO-Server.git
+	active = true

@@ -1,0 +1,3 @@
+[submodule "serial-Input-Output-Server"]
+	path = serial-Input-Output-Server
+	url = https://github.com/siavcom/serial-IO-Server.git

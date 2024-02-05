@@ -1,0 +1,21 @@
+{
+  "name": "serverIO",
+  "version": "1.0.0",
+  "description": "Comunicacion Serial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando Cuadras",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/bindings": "^9.2.9",
+    "@serialport/list": "^12.0.0",
+    "consola": "^3.2.3",
+    "express": "^4.18.2",
+    "node-hid": "^3.0.0",
+    "serialport": "^12.0.0",
+    "socket.io": "^4.7.4"
+  }
+}
